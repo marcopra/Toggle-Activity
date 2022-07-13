@@ -7,4 +7,4 @@ During the experiment, we are considering mainly the effects of the attack on th
 and on the Neural Ranking to understand if it is possible to create a dataset that solicits many
 different paths of the network, using a few images.
 
-Please take a look to my [Report][!https://github.com/marcopra/Toggle-Activity/blob/main/FGSM_attack_and_toggle_activity.pdf], where is explained my experiment.
+Please take a look to my [Report](!https://github.com/marcopra/Toggle-Activity/blob/main/FGSM_attack_and_toggle_activity.pdf), where is explained my experiment.
